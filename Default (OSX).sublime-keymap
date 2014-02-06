@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["super+alt+l"], "command": "string2_lower_hyphen"
+    }
+]
