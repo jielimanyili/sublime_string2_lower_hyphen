@@ -3,8 +3,13 @@
         "id": "edit",
         "children": 
         [
-            {"id": "wrap"},
-            {"command": "string2_lower_hyphen"}
+            {
+              "id": "convert_case",
+              "children":
+              [
+                  {"command": "string2_lower_hyphen", "caption": "Lower Case & Hyphenate"}
+              ]
+            }
         ]
     }
 ]
