@@ -1,6 +1,6 @@
 # Sublime String2LowerHyphen
 
-A Sublime Text 2 [[http://sublimetext.com/2|Sublime Text 2]] plugin to convert multiple selected strings to lowercase and replaces spaces with hyphens.
+A [Sublime Text 2](http://sublimetext.com/2|Sublime Text 2) plugin to convert multiple selected strings to lowercase and replaces spaces with hyphens.
 
 ## Features
 - Works with multiple selections
