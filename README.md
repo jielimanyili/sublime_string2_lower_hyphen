@@ -5,6 +5,7 @@ A [Sublime Text 2](http://sublimetext.com/2) plugin to convert multiple selected
 ## Features
 - Works with multiple selections
 - Great to create HMTL ids based on some strings
+- Replace accent characters with their ASCII representations. For example 'Frédér8ic café' to 'freder8ic-cafe'.
 
 ## Installation
 Download Package Control and use the Package Control: Install Package command from the command palette.
