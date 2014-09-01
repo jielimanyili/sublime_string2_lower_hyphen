@@ -12,4 +12,4 @@ Download Package Control and use the Package Control: Install Package command fr
 
 ## Usage
 1. Select the strings
-2. Press ctrl+alt+l on Windows and Linux, or cmd+alt+l
+2. Press ctrl+alt+l (lower case L) on Windows and Linux, or cmd+alt+l (lower case L)
